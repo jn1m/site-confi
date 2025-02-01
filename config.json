@@ -1,1 +1,691 @@
-
+{
+  "content": {
+    "hero": {
+      "title": "We Help E-commerce & Info Product Businesses Produce",
+      "subtitle": "Scaling Results With Paid Advertising",
+      "description": "Our experts will help you scale on multiple paid traffic platforms so you can focus on what you do best - running your business",
+      "ctaText": "Speak To Our Team Today",
+      "image": "https://images.unsplash.com/photo-1557426272-fc759fdf7a8d?auto=format&fit=crop&w=800&q=80",
+      "mobile": {
+        "enabled": true,
+        "title": "We Help E-commerce & business",
+        "subtitle": "Scaling Results With Paid lmaoing",
+        "description": "Our experts will help you mmjnnp you do best - running your business",
+        "ctaText": "Speak To Our Teafr",
+        "image": "https://images.unsplash.com/photo-1557426272-fc759fdf7a8d?auto=format&fit=crop&w=800&q=80",
+        "layout": "stacked",
+        "imagePosition": "bottom"
+      }
+    },
+    "services": {
+      "title": "Our Services",
+      "description": "We offer comprehensive digital marketing solutions tailored to your business needs.",
+      "ctaText": "Get Started",
+      "mobile": {
+        "enabled": true,
+        "maxItems": 3,
+        "truncateDescription": true,
+        "maxDescriptionLength": 100,
+        "title": "Our Services",
+        "description": "We offer comprehensive digital marketing solutions tailored to your business needs.",
+        "ctaText": "Get Started",
+        "viewAllText": "View all services"
+      },
+      "items": [
+        {
+          "title": "Paid Advertising",
+          "description": "Strategic ad campaigns that drive real business growth across multiple platforms.",
+          "icon": "BarChart3"
+        },
+        {
+          "title": "Email Marketing",
+          "description": "Automated email sequences that nurture leads and drive consistent sales.",
+          "icon": "Mail"
+        },
+        {
+          "title": "Social Media",
+          "description": "Engaging social presence that builds brand authority and trust.",
+          "icon": "Users"
+        },
+        {
+          "title": "Community Matysdjnagement",
+          "description": "Active community engagement that turnfjs customers into brand advocates.d",
+          "icon": "LineChart"
+        },
+        {
+          "title": "Marketing Automation",
+          "description": "Streamlined processes that save time and increase efficiency.",
+          "icon": "Settings"
+        },
+        {
+          "title": "Brand Stratcegy",
+          "description": "Comprehensive brand positioning that sets you apart from competitors.",
+          "icon": "Megaphone"
+        }
+      ]
+    },
+    "stats": {
+      "items": [
+        {
+          "label": "Total Revenue Generated",
+          "value": "$63.4 MILLION",
+          "subValue": "ACROSS 100+ CLIENTS",
+          "icon": "DollarSign"
+        },
+        {
+          "label": "Total Ad Spend",
+          "value": "$4.9M",
+          "subValue": "MONTHLY",
+          "icon": "TrendingUp"
+        },
+        {
+          "label": "Offices",
+          "value": "4",
+          "subValue": "WORLDWIDE",
+          "icon": "Building"
+        },
+        {
+          "label": "Team Size",
+          "value": "25+",
+          "subValue": "MARKETING EXPERTS",
+          "icon": "Users"
+        }
+      ]
+    },
+    "philosophy": {
+      "title": "Our Philosophy",
+      "description": "Here at MediaLume, we've worked with the best in the industry. Our core values have been shaped by our experiences, and we believe in delivering results that speak for themselves.",
+      "ctaText": "Start Your Journey",
+      "items": [
+        {
+          "title": "Results Focused",
+          "description": "We measure success through your growth and ROI, not vanity metrics.",
+          "icon": "Target"
+        },
+        {
+          "title": "Industry Expertise",
+          "description": "Our team brings years of experience in digital marketing and growth strategies.",
+          "icon": "Award"
+        },
+        {
+          "title": "Scalable Growth",
+          "description": "We build sustainable growth systems that scale with your business.",
+          "icon": "TrendingUp"
+        }
+      ]
+    },
+    "whyUs": {
+      "title": "Why Choose MediaLume?",
+      "description": "With a decade of experience in digital marketing, we've helped hundreds of businesses achieve exceptional growth. Our data-driven approach and industry expertise set us apart.",
+      "features": [
+        {
+          "title": "Proven Track Record",
+          "description": "Over $63M in revenue generated for our clients through strategic digital marketing campaigns.",
+          "icon": "Shield"
+        },
+        {
+          "title": "Rapid Implementation",
+          "description": "We move fast and adapt quickly, ensuring your campaigns stay ahead of market trends.",
+          "icon": "Rocket"
+        },
+        {
+          "title": "Dedicated Support",
+          "description": "Your success is our priority, with a dedicated team of experts supporting your growth.",
+          "icon": "Users"
+        }
+      ],
+      "approach": {
+        "icon": "BarChart",
+        "title": "Our Approach",
+        "description": "We combine data-driven insights with creative strategy to deliver exceptional results.",
+        "metrics": [
+          {
+            "label": "Strategy Development",
+            "percentage": 100,
+            "enabled": true
+          },
+          {
+            "label": "Campaign Optimization",
+            "percentage": 95,
+            "enabled": true
+          },
+          {
+            "label": "ROI Focus",
+            "percentage": 98,
+            "enabled": true
+          }
+        ]
+      }
+    },
+    "team": {
+      "title": "efgweg3wg",
+      "description": "Our experienced tewegwegwegwegwgeam of3 digital marketing experts.",
+      "members": [
+        {
+          "name": "Sarah Johnson",
+          "role": "CEO 24",
+          "image": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?auto=format&fit=crop&w=300&q=80"
+        }
+      ],
+      "buttonText": "ghelo"
+    },
+    "cta": {
+      "title": "Ready to Scale Your Business?",
+      "description": "Book a free 15-minute consultation with our team.",
+      "buttonText": "Schedule Your Free Call",
+      "strategyCall": {
+        "icon": "Calendar",
+        "title": "Free Strategy Call",
+        "steps": [
+          {
+            "text": "Analyze your current marketing strategy"
+          },
+          {
+            "text": "Identify growth opportunities"
+          },
+          {
+            "text": "Create an actionable growth plan"
+          }
+        ]
+      }
+    }
+  },
+  "theme": {
+    "colors": {
+      "primary": "#2563eb",
+      "secondary": "#1d4ed8",
+      "containers": {
+        "primary": "#1e40af",
+        "secondary": "#1e3a8a",
+        "accent": "#3b82f6",
+        "gradients": {
+          "primary": {
+            "from": "#1e40af",
+            "via": "#2563eb",
+            "to": "#3b82f6"
+          },
+          "secondary": {
+            "from": "#1e3a8a",
+            "via": "#1e40af",
+            "to": "#2563eb"
+          }
+        },
+        "dividers": {
+          "primary": {
+            "color": "#1e3a8a",
+            "gradient": {
+              "from": "#ffffff",
+              "to": "#000000"
+            }
+          },
+          "secondary": {
+            "color": "#1e3a8a",
+            "gradient": {
+              "from": "#ff00d4",
+              "to": "#8f0000"
+            }
+          },
+          "gradient": {
+            "from": "#0029a3",
+            "to": "#009699"
+          },
+          "color": "#09163a"
+        }
+      },
+      "buttons": {
+        "primary": {
+          "background": "#2563eb",
+          "hover": "#1d4ed8"
+        },
+        "secondary": {
+          "background": "#1e40af",
+          "hover": "#1e3a8a"
+        }
+      }
+    },
+    "typography": {
+      "headingFont": "Inter",
+      "bodyFont": "Inter",
+      "baseFontSize": "16px",
+      "sections": {
+        "hero": {
+          "title": {
+            "fontFamily": "Inter",
+            "fontSize": "4rem",
+            "fontWeight": "700",
+            "lineHeight": "1.2",
+            "letterSpacing": "-0.025em",
+            "color": "#ffffff"
+          },
+          "subtitle": {
+            "fontFamily": "Inter",
+            "fontSize": "2.5rem",
+            "fontWeight": "600",
+            "lineHeight": "1.3",
+            "letterSpacing": "-0.025em",
+            "color": "#e2e8f0"
+          },
+          "description": {
+            "fontFamily": "Inter",
+            "fontSize": "1.125rem",
+            "fontWeight": "400",
+            "lineHeight": "1.6",
+            "color": "#cbd5e1"
+          },
+          "button": {
+            "fontFamily": "Inter",
+            "fontSize": "1rem",
+            "fontWeight": "600",
+            "letterSpacing": "0.025em",
+            "color": "#2563eb"
+          }
+        },
+        "services": {
+          "title": {
+            "fontFamily": "Inter",
+            "fontSize": "2.5rem",
+            "fontWeight": "700",
+            "lineHeight": "1.2",
+            "letterSpacing": "-0.025em",
+            "color": "#1f2937",
+            "textAlign": "center"
+          },
+          "description": {
+            "fontFamily": "Inter",
+            "fontSize": "1.125rem",
+            "fontWeight": "400",
+            "lineHeight": "1.6",
+            "color": "#4b5563",
+            "textAlign": "center"
+          },
+          "cardTitle": {
+            "fontFamily": "Inter",
+            "fontSize": "1.25rem",
+            "fontWeight": "600",
+            "lineHeight": "1.4",
+            "color": "#1f2937"
+          },
+          "cardDescription": {
+            "fontFamily": "Inter",
+            "fontSize": "1rem",
+            "fontWeight": "400",
+            "lineHeight": "1.6",
+            "color": "#4b5563"
+          }
+        },
+        "schedule": {
+          "title": {
+            "fontFamily": "Inter",
+            "fontSize": "2.5rem",
+            "fontWeight": "700",
+            "lineHeight": "1.2",
+            "letterSpacing": "-0.025em",
+            "color": "#1f2937"
+          },
+          "subtitle": {
+            "fontFamily": "Inter",
+            "fontSize": "1.125rem",
+            "fontWeight": "400",
+            "lineHeight": "1.6",
+            "color": "#4b5563"
+          },
+          "formTitle": {
+            "fontFamily": "Inter",
+            "fontSize": "1.875rem",
+            "fontWeight": "700",
+            "lineHeight": "1.3",
+            "color": "#1f2937"
+          },
+          "formSubtitle": {
+            "fontFamily": "Inter",
+            "fontSize": "1rem",
+            "fontWeight": "400",
+            "lineHeight": "1.5",
+            "color": "#4b5563"
+          },
+          "formLabel": {
+            "fontFamily": "Inter",
+            "fontSize": "0.875rem",
+            "fontWeight": "500",
+            "lineHeight": "1.4",
+            "color": "#374151"
+          },
+          "formInput": {
+            "fontFamily": "Inter",
+            "fontSize": "1rem",
+            "fontWeight": "400",
+            "lineHeight": "1.5",
+            "color": "#1f2937"
+          },
+          "submitButton": {
+            "fontFamily": "Inter",
+            "fontSize": "1rem",
+            "fontWeight": "600",
+            "lineHeight": "1.5",
+            "color": "#ffffff"
+          },
+          "featureTitle": {
+            "fontFamily": "Inter",
+            "fontSize": "1.125rem",
+            "fontWeight": "600",
+            "lineHeight": "1.4",
+            "color": "#1f2937"
+          },
+          "featureDescription": {
+            "fontFamily": "Inter",
+            "fontSize": "1rem",
+            "fontWeight": "400",
+            "lineHeight": "1.6",
+            "color": "#4b5563"
+          }
+        },
+        "stats": {
+          "value": {
+            "fontFamily": "Inter",
+            "fontSize": "2.25rem",
+            "fontWeight": "700",
+            "lineHeight": "1.2",
+            "color": "#ffffff"
+          },
+          "label": {
+            "fontFamily": "Inter",
+            "fontSize": "0.875rem",
+            "fontWeight": "500",
+            "lineHeight": "1.4",
+            "color": "#e2e8f0"
+          },
+          "subValue": {
+            "fontFamily": "Inter",
+            "fontSize": "0.875rem",
+            "fontWeight": "500",
+            "lineHeight": "1.4",
+            "color": "#e2e8f0"
+          }
+        },
+        "philosophy": {
+          "title": {
+            "fontFamily": "Inter",
+            "fontSize": "2.5rem",
+            "fontWeight": "700",
+            "lineHeight": "1.2",
+            "letterSpacing": "-0.025em",
+            "color": "#ffffff",
+            "textAlign": "center"
+          },
+          "description": {
+            "fontFamily": "Inter",
+            "fontSize": "1.125rem",
+            "fontWeight": "400",
+            "lineHeight": "1.6",
+            "color": "#e2e8f0",
+            "textAlign": "center"
+          },
+          "cardTitle": {
+            "fontFamily": "Inter",
+            "fontSize": "1.25rem",
+            "fontWeight": "600",
+            "lineHeight": "1.4",
+            "color": "#ffffff"
+          },
+          "cardDescription": {
+            "fontFamily": "Inter",
+            "fontSize": "1rem",
+            "fontWeight": "400",
+            "lineHeight": "1.6",
+            "color": "#e2e8f0"
+          }
+        },
+        "whyUs": {
+          "title": {
+            "fontFamily": "Inter",
+            "fontSize": "2.5rem",
+            "fontWeight": "700",
+            "lineHeight": "1.2",
+            "letterSpacing": "-0.025em",
+            "color": "#1f2937"
+          },
+          "description": {
+            "fontFamily": "Inter",
+            "fontSize": "1.125rem",
+            "fontWeight": "400",
+            "lineHeight": "1.6",
+            "color": "#4b5563"
+          },
+          "featureTitle": {
+            "fontFamily": "Inter",
+            "fontSize": "1.25rem",
+            "fontWeight": "600",
+            "lineHeight": "1.4",
+            "color": "#1f2937"
+          },
+          "featureDescription": {
+            "fontFamily": "Inter",
+            "fontSize": "1rem",
+            "fontWeight": "400",
+            "lineHeight": "1.6",
+            "color": "#4b5563"
+          },
+          "metricLabel": {
+            "fontFamily": "Inter",
+            "fontSize": "0.875rem",
+            "fontWeight": "500",
+            "lineHeight": "1.4",
+            "color": "#1f2937"
+          },
+          "metricValue": {
+            "fontFamily": "Inter",
+            "fontSize": "1rem",
+            "fontWeight": "600",
+            "lineHeight": "1.4",
+            "color": "#2563eb"
+          }
+        },
+        "team": {
+          "title": {
+            "fontFamily": "Inter",
+            "fontSize": "2.5rem",
+            "fontWeight": "700",
+            "lineHeight": "1.2",
+            "letterSpacing": "-0.025em",
+            "color": "#ffffff",
+            "textAlign": "center"
+          },
+          "description": {
+            "fontFamily": "Inter",
+            "fontSize": "1.125rem",
+            "fontWeight": "400",
+            "lineHeight": "1.6",
+            "color": "#e2e8f0",
+            "textAlign": "center"
+          },
+          "memberName": {
+            "fontFamily": "Inter",
+            "fontSize": "1.25rem",
+            "fontWeight": "600",
+            "lineHeight": "1.4",
+            "color": "#ffffff"
+          },
+          "memberRole": {
+            "fontFamily": "Inter",
+            "fontSize": "1rem",
+            "fontWeight": "500",
+            "lineHeight": "1.4",
+            "color": "#e2e8f0"
+          }
+        },
+        "cta": {
+          "title": {
+            "fontFamily": "Inter",
+            "fontSize": "2.5rem",
+            "fontWeight": "700",
+            "lineHeight": "1.2",
+            "letterSpacing": "-0.025em",
+            "color": "#ffffff"
+          },
+          "description": {
+            "fontFamily": "Inter",
+            "fontSize": "1.125rem",
+            "fontWeight": "400",
+            "lineHeight": "1.6",
+            "color": "#e2e8f0"
+          },
+          "stepText": {
+            "fontFamily": "Inter",
+            "fontSize": "1rem",
+            "fontWeight": "400",
+            "lineHeight": "1.6",
+            "color": "#4b5563"
+          }
+        }
+      },
+      "headingSizes": {
+        "h1": "3rem",
+        "h2": "2.25rem",
+        "h3": "1.875rem"
+      }
+    }
+  },
+  "schedule": {
+    "title": "Schedule a Consultation lol",
+    "subtitle": "Fill out the form below and we'll be in touch shortly. 4rr",
+    "form": {
+      "fields": [
+        {
+          "id": "firstName",
+          "type": "text",
+          "label": "First Name",
+          "placeholder": "John",
+          "required": true,
+          "width": "half",
+          "isDefault": true,
+          "locked": true
+        },
+        {
+          "id": "lastName",
+          "type": "text",
+          "label": "Last Name",
+          "placeholder": "Doe",
+          "required": true,
+          "width": "half",
+          "isDefault": true,
+          "locked": true
+        },
+        {
+          "id": "email",
+          "type": "email",
+          "label": "Email Address",
+          "placeholder": "john@example.com",
+          "required": true,
+          "width": "full",
+          "isDefault": true,
+          "locked": true
+        },
+        {
+          "id": "phone",
+          "type": "tel",
+          "label": "Phone Number",
+          "placeholder": "(123) 456-7890",
+          "required": true,
+          "width": "full",
+          "isDefault": true,
+          "locked": true
+        },
+        {
+          "id": "company",
+          "type": "text",
+          "label": "Company Name",
+          "placeholder": "Your Company",
+          "required": true,
+          "width": "full",
+          "isDefault": true,
+          "locked": true
+        },
+        {
+          "id": "message",
+          "type": "textarea",
+          "label": "Anything we should know?",
+          "placeholder": "Tell us about your project, goals, or any specific requirements...",
+          "required": true,
+          "width": "full",
+          "isDefault": true,
+          "locked": true
+        }
+      ],
+      "submitButton": {
+        "text": "Schedule Consultation 233"
+      }
+    },
+    "whyChooseUs": {
+      "title": "Why Choose Us?",
+      "features": [
+        {
+          "title": "Flexible Scheduling",
+          "description": "Choose a time that works best for you. We're here to accommodate your schedule.",
+          "icon": "Calendar"
+        },
+        {
+          "title": "Quick Response",
+          "description": "We'll get back to you within 24 hours to confirm your consultation.",
+          "icon": "Percent"
+        },
+        {
+          "title": "Expert Consultation",
+          "description": "Get personalized insights from our experienced team of marketing professionals.",
+          "icon": "Mail"
+        }
+      ]
+    }
+  },
+  "seo": {
+    "title": "MediaLume - Digital Marketing Agency",
+    "description": "We help e-commerce and info product businesses scale with paid advertising.",
+    "keywords": [
+      "digital marketing",
+      "paid advertising",
+      "e-commerce",
+      "ROI"
+    ],
+    "ogImage": "https://example.com/og-image.jpg"
+  },
+  "contact": {
+    "email": "hello@medialume.com",
+    "phone": "(123) 456-7890",
+    "address": "New York, NY 10001",
+    "footer": {
+      "companyName": "MediaLume",
+      "description": "Helping businesses achieve exceptional growth through strategic digital marketing solutions.",
+      "copyright": "© 2024 MediaLume. All rights reserved.",
+      "achievements": [
+        {
+          "text": "Top 1% Marketing Agency"
+        },
+        {
+          "text": "100+ Satisfied Clients"
+        },
+        {
+          "text": "Industry Recognition"
+        }
+      ]
+    }
+  },
+  "social": {
+    "facebook": "https://facebook.com/medialume",
+    "twitter": "https://twitter.com/medialume",
+    "linkedin": "https://linkedin.com/company/medialume",
+    "instagram": "https://instagram.com/medialume",
+    "youtube": "",
+    "tiktok": "",
+    "discord": "",
+    "telegram": "",
+    "footerVisibility": {
+      "facebook": true,
+      "twitter": true,
+      "linkedin": true,
+      "instagram": true,
+      "youtube": false,
+      "tiktok": false,
+      "discord": false,
+      "telegram": false
+    }
+  }
+}
