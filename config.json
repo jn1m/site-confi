@@ -1,20 +1,20 @@
 {
   "content": {
     "hero": {
-      "title": "We Help E-commerce & Info Product Businesses Produce",
-      "subtitle": "Scaling Results With Paid Advertising",
-      "description": "Our experts will help you scale on multiple paid traffic platforms so you can focus on what you do best - running your business",
-      "ctaText": "Speak To Our Team Today",
+      "title": "We Help E-commerce be great",
+      "subtitle": "Scarbneer",
+      "description": "Our experts will erbebebn focus on what you do best - running your business",
+      "ctaText": "jbr",
       "image": "https://images.unsplash.com/photo-1557426272-fc759fdf7a8d?auto=format&fit=crop&w=800&q=80",
       "mobile": {
         "enabled": true,
-        "title": "We Help E-commerce & business",
-        "subtitle": "Scaling Results With Paid lmaoing",
-        "description": "Our experts will help you mmjnnp you do best - running your business",
-        "ctaText": "Speak To Our Teafr",
+        "title": "We Hadfgagdasg",
+        "subtitle": "Scaling Results Wesgseging",
+        "description": "Our experts will help you scale on multi46u4yj4 so you can focus on what you do best - running your business",
+        "ctaText": "Speak T46j46j",
         "image": "https://images.unsplash.com/photo-1557426272-fc759fdf7a8d?auto=format&fit=crop&w=800&q=80",
-        "layout": "stacked",
-        "imagePosition": "bottom"
+        "layout": "compact",
+        "imagePosition": "top"
       }
     },
     "services": {
@@ -48,9 +48,9 @@
           "icon": "Users"
         },
         {
-          "title": "Community Matysdjnagement",
-          "description": "Active community engagement that turnfjs customers into brand advocates.d",
-          "icon": "LineChart"
+          "title": "Community Management",
+          "description": "Active community engagement that turns customers into brand advocates.",
+          "icon": "MessageSquare"
         },
         {
           "title": "Marketing Automation",
@@ -58,7 +58,7 @@
           "icon": "Settings"
         },
         {
-          "title": "Brand Stratcegy",
+          "title": "Brand Strategy",
           "description": "Comprehensive brand positioning that sets you apart from competitors.",
           "icon": "Megaphone"
         }
@@ -158,16 +158,15 @@
       }
     },
     "team": {
-      "title": "efgweg3wg",
-      "description": "Our experienced tewegwegwegwegwgeam of3 digital marketing experts.",
+      "title": "Meet Our Team",
+      "description": "Our experienced team of digital marketing experts.",
       "members": [
         {
           "name": "Sarah Johnson",
-          "role": "CEO 24",
+          "role": "CEO & Founder",
           "image": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?auto=format&fit=crop&w=300&q=80"
         }
-      ],
-      "buttonText": "ghelo"
+      ]
     },
     "cta": {
       "title": "Ready to Scale Your Business?",
@@ -209,27 +208,6 @@
             "via": "#1e40af",
             "to": "#2563eb"
           }
-        },
-        "dividers": {
-          "primary": {
-            "color": "#1e3a8a",
-            "gradient": {
-              "from": "#ffffff",
-              "to": "#000000"
-            }
-          },
-          "secondary": {
-            "color": "#1e3a8a",
-            "gradient": {
-              "from": "#ff00d4",
-              "to": "#8f0000"
-            }
-          },
-          "gradient": {
-            "from": "#0029a3",
-            "to": "#009699"
-          },
-          "color": "#09163a"
         }
       },
       "buttons": {
@@ -546,8 +524,8 @@
     }
   },
   "schedule": {
-    "title": "Schedule a Consultation lol",
-    "subtitle": "Fill out the form below and we'll be in touch shortly. 4rr",
+    "title": "Schedule a Consultation",
+    "subtitle": "Fill out the form below and we'll be in touch shortly.",
     "form": {
       "fields": [
         {
@@ -612,7 +590,7 @@
         }
       ],
       "submitButton": {
-        "text": "Schedule Consultation 233"
+        "text": "Schedule Consultation"
       }
     },
     "whyChooseUs": {
@@ -626,12 +604,12 @@
         {
           "title": "Quick Response",
           "description": "We'll get back to you within 24 hours to confirm your consultation.",
-          "icon": "Percent"
+          "icon": "Clock"
         },
         {
           "title": "Expert Consultation",
           "description": "Get personalized insights from our experienced team of marketing professionals.",
-          "icon": "Mail"
+          "icon": "MessageSquare"
         }
       ]
     }
