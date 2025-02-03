@@ -1,7 +1,7 @@
 {
   "content": {
     "hero": {
-      "title": "When arte you gonna workm klmao",
+      "title": "We Help E-commerce be great fr so dok",
       "subtitle": "21241",
       "description": "Our experts will erbebebn fodo beswhen did i do that",
       "ctaText": "wefgwg",
@@ -11,7 +11,7 @@
         "title": "We Hadfgagdasg",
         "subtitle": "Scaling Results Wesgseging",
         "description": "Our experts will help you scale on multi46u4yj4 so you can focus on what you do best - running your business",
-        "ctaText": "Speak T46j46j",
+        "ctaText": "Speak T46j46jdv",
         "image": "https://images.unsplash.com/photo-1557426272-fc759fdf7a8d?auto=format&fit=crop&w=800&q=80",
         "layout": "compact",
         "imagePosition": "top"
@@ -623,10 +623,11 @@
       "e-commerce",
       "ROI"
     ],
-    "ogImage": "https://example.com/og-image.jpg"
+    "ogImage": "https://example.com/og-image.jpg",
+    "configUrl": "https://undefined.github.io/undefined/undefined"
   },
   "contact": {
-    "email": "hello@medialume.com",
+    "email": "yoosernames2@gmail.com",
     "phone": "(123) 456-7890",
     "address": "New York, NY 10001",
     "footer": {
@@ -667,5 +668,5 @@
     }
   },
   "version": 1738441896547,
-  "lastUpdated": "2025-02-01T21:54:07.121Z"
+  "lastUpdated": "2025-02-03T20:19:16.417Z"
 }
