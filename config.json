@@ -197,7 +197,7 @@
       "containers": {
         "primary": "#1e40af",
         "secondary": "#1e3a8a",
-        "accent": "#3b82f6",
+        "accent": "#0062ff",
         "gradients": {
           "primary": {
             "from": "#1e40af",
@@ -701,5 +701,5 @@
     }
   },
   "version": 1738441896547,
-  "lastUpdated": "2025-02-04T18:12:38.223Z"
+  "lastUpdated": "2025-02-04T18:12:50.443Z"
 }
