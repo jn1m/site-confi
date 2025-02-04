@@ -660,13 +660,13 @@
     "configUrl": "https://undefined.github.io/undefined/undefined"
   },
   "contact": {
-    "email": "yoosernames2@gmail.com",
+    "email": "admin@medialume.com",
     "phone": "(123) 456-7890",
     "address": "New York, NY 10001",
     "footer": {
       "companyName": "MediaLume",
       "description": "Helping businesses achieve exceptional growth through strategic digital marketing solutions.",
-      "copyright": "Â© 2024 MediaLume. All rights reserved.",
+      "copyright": "© 2024 MediaLume. All rights reserved.",
       "achievements": [
         {
           "text": "Top 1% Marketing Agency"
@@ -701,5 +701,5 @@
     }
   },
   "version": 1738441896547,
-  "lastUpdated": "2025-02-04T18:12:50.443Z"
+  "lastUpdated": "2025-02-04T18:15:40.542Z"
 }
