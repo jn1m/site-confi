@@ -160,14 +160,14 @@
     "team": {
       "title": "Meet Our Team",
       "description": "Our experienced team of digital marketing experts.",
+      "buttonText": "Ready to work with us?",
       "members": [
         {
           "name": "Sarah Johnson",
           "role": "CEO & Founder",
           "image": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?auto=format&fit=crop&w=300&q=80"
         }
-      ],
-      "buttonText": "Ready to work with us?"
+      ]
     },
     "cta": {
       "title": "Ready to Scale Your Business?",
@@ -197,7 +197,7 @@
       "containers": {
         "primary": "#1e40af",
         "secondary": "#1e3a8a",
-        "accent": "#0062ff",
+        "accent": "#002157",
         "gradients": {
           "primary": {
             "from": "#1e40af",
@@ -701,5 +701,5 @@
     }
   },
   "version": 1738441896547,
-  "lastUpdated": "2025-02-04T18:15:40.542Z"
+  "lastUpdated": "2025-02-04T18:20:34.993Z"
 }
