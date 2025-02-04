@@ -298,7 +298,7 @@
             "fontWeight": "700",
             "lineHeight": "1.2",
             "letterSpacing": "-0.025em",
-            "color": "#1f2937",
+            "color": "#080303",
             "textAlign": "center"
           },
           "description": {
@@ -306,7 +306,7 @@
             "fontSize": "1.125rem",
             "fontWeight": "400",
             "lineHeight": "1.6",
-            "color": "#4b5563",
+            "color": "#0d1521",
             "textAlign": "center"
           },
           "cardTitle": {
@@ -314,14 +314,14 @@
             "fontSize": "1.25rem",
             "fontWeight": "600",
             "lineHeight": "1.4",
-            "color": "#1f2937"
+            "color": "#f7f7f7"
           },
           "cardDescription": {
             "fontFamily": "Arial",
             "fontSize": "1rem",
             "fontWeight": "400",
             "lineHeight": "1.6",
-            "color": "#4b5563"
+            "color": "#a6a6a6"
           }
         },
         "schedule": {
@@ -701,5 +701,5 @@
     }
   },
   "version": 1738441896547,
-  "lastUpdated": "2025-02-04T18:20:34.993Z"
+  "lastUpdated": "2025-02-04T18:23:41.975Z"
 }
